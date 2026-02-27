@@ -11,7 +11,7 @@
 
 
 
-> Founder & AI Engineer building intelligent systems that scale.
+> Locked in founder-mode — building AI systems at unreasonable speed. Currently i'm 3rd year AI/ML student. 
 
 🔗 [yourwebsite.com](https://yourwebsite.com) — short description of your site.
 
