@@ -32,11 +32,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Happy_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssanyal-singh-57609220a)
 [![Twitter](https://img.shields.io/badge/-@happysingh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Hxappyy)
-![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Happysingh1062003)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Happysingh1062003)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=happysingh1062003&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happysingh1062003&show_icons=true&theme=dark)
 
 ---
 ### 💡 Philosophy
