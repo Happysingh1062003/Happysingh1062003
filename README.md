@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Happy Singh 👋
 
-<!--
-**Happysingh1062003/Happysingh1062003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Mumbai,India | 🏗️ AI Engineer 
 
-Here are some ideas to get you started:
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [Your one-liner bio / vibe here.]
+
+🔗 [yourwebsite.com](https://yourwebsite.com) — short description of your site.
+
+## Current Projects
+
+- 🔥 [Project One](https://github.com/you/project1) - What it does in one line
+- ⚡ [Project Two](https://github.com/you/project2) - What it does in one line
+- 🛠️ [Project Three](https://github.com/you/project3) - What it does in one line
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+```
+
+---
+
+## Step 3: Add Badges (like steipete's tech stack)
+
+Use **[shields.io](https://shields.io)** to generate badges. Format:
+```
+![Label](https://img.shields.io/badge/LABEL-COLOR?style=flat&logo=LOGO&logoColor=white)
