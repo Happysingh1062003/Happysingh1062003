@@ -34,12 +34,23 @@
 [![Twitter](https://img.shields.io/badge/-@happysingh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Hxappyy)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Happysingh1062003)
 
-## GitHub Activity
+# GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Happysingh1062003)
 
 
-### 💡 Philosophy
+# 💡 Philosophy
 
 > "Build fast, learn faster." — Ship before you feel ready. The best AI engineers are the ones who stay curious and keep shipping.
 
+details>
+<summary>⚡ Fun Facts</summary>
+
+- 🎓 3rd year AI/ML student by day, founder by night
+- 🤖 Believes AI will eat every industry — and wants to be the one building it
+- ☕ Runs on chai and curiosity
+- 🧩 Loves breaking down complex AI papers into weekend projects
+- 🌏 Building from Mumbai — because great startups can come from anywhere
+- 🎯 Goal: Launch a product before graduation
+
+</details>
