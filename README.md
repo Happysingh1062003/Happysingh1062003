@@ -34,14 +34,12 @@
 [![Twitter](https://img.shields.io/badge/-@happysingh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Hxappyy)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Happysingh1062003)
 
-## Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happysingh1062003&show_icons=true&theme=dark)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Happysingh1062003)
 
----
+
 ### 💡 Philosophy
 
 > "Build fast, learn faster." — Ship before you feel ready. The best AI engineers are the ones who stay curious and keep shipping.
 
----
-```
