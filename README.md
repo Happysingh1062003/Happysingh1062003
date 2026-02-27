@@ -15,7 +15,7 @@
 
 > Locked in founder-mode — building AI systems at unreasonable speed. Currently a 3rd year AI/ML student turning ideas into products before graduation.
 
-### 🧠 What I'm Working On
+## 🧠 What I'm Working On
 
 - 🔬 **Exploring** agentic AI systems and LLM-powered applications
 - 📚 **Studying** AI/ML at university while shipping real products
