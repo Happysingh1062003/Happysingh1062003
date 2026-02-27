@@ -13,8 +13,6 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-
-
 > Locked in founder-mode — building AI systems at unreasonable speed. Currently a 3rd year AI/ML student turning ideas into products before graduation.
 
 ### 🧠 What I'm Working On
@@ -37,7 +35,6 @@
 ### GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Happysingh1062003)
-
 
 ### 💡 Philosophy
 
