@@ -2,11 +2,16 @@
 
 📍 Mumbai,India | 🏗️ AI Engineer 
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-> [Your one-liner bio / vibe here.]
+
+
+> Founder & AI Engineer building intelligent systems that scale.
 
 🔗 [yourwebsite.com](https://yourwebsite.com) — short description of your site.
 
@@ -21,10 +26,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 ```
 
----
-
-## Step 3: Add Badges (like steipete's tech stack)
-
-Use **[shields.io](https://shields.io)** to generate badges. Format:
-```
-![Label](https://img.shields.io/badge/LABEL-COLOR?style=flat&logo=LOGO&logoColor=white)
