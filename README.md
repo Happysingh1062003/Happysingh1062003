@@ -24,7 +24,7 @@
 
 ## Current Projects
 
-- 🔥 [Comming Soon](https://github.com/you/project1) - Building One
+- 🏛️ [Lextriq](https://github.com/Happysingh1062003/Lextriq) - Prompt Network, Social Media for prompt sharing.
 
 ## Connect
 
