@@ -25,6 +25,7 @@
 ## Current Projects
 
 - 🏛️ [Lextriq](https://github.com/Happysingh1062003/Lextriq) - Prompt Network, Social Media for prompt sharing.
+- 🏛️ [Lextriq](https://github.com/Happysingh1062003/HappyWay) - Tracks achievements. Builds extraordinary immigration cases.
 
 ## Connect
 
