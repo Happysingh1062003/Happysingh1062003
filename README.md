@@ -24,6 +24,7 @@
 
 ## Current Projects
 
+- 🦅 [X²](https://github.com/Happysingh1062003/X-square) - Platform for growing on X. 
 - 🦅 [HappyWay](https://github.com/Happysingh1062003/HappyWay) - Tracks achievements. Builds extraordinary immigration cases.
 - 🏛️ [Lextriq](https://github.com/Happysingh1062003/Lextriq) - Prompt Network, Social Media for prompt sharing.
 
