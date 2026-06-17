@@ -24,8 +24,7 @@
 
 ## Current Projects
 
-- 🦅 [HappyWay](https://github.com/Happysingh1062003/HappyWay) - Tracks achievements. Builds extraordinary immigration cases.
-- 🏛️ [Lextriq](https://github.com/Happysingh1062003/Lextriq) - Prompt Network, Social Media for prompt sharing.
+- 🔋[Black Battery](https://github.com/Happysingh1062003/Black-Battery) - Track the battery smartly
 
 
 ## Connect
