@@ -1,42 +1,27 @@
-# Hi, I'm Happy Singh 👋
+# Hi, I'm Happy 👋
 
-**AI/ML Engineer · Student · Builder**
+**AI/ML Engineer · Builder**
 
-I'm an AI/ML student from Mumbai, India. I enjoy building practical software, experimenting with AI, and learning by making things.
+I'm an AI/ML student from Mumbai, India.
+I like building things, learning about AI, and turning ideas into working projects.
 
-### About me
+### About
 
-* 🎓 Studying AI/ML
-* 🤖 Interested in AI, machine learning, and LLMs
-* 🛠️ Building small products and experiments
-* 🚀 Interested in startups and new technology
-* 📚 Always learning and exploring new ideas
+* 🎓 AI/ML student
+* 🤖 Interested in AI, ML, and LLMs
+* 🛠️ Building projects and experimenting with new ideas
+* 🚀 Interested in startups
 
-### Tech I use
+### Tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+Python · TypeScript · JavaScript · Next.js · React · FastAPI · PostgreSQL · MongoDB · Scikit-learn
 
-### Projects
+### Project
 
-**Black Battery**
-A simple tool for tracking and understanding battery usage.
+🔋 [Neural Network](https://github.com/Happysingh1062003/racing-neural-network)
 
-[View on GitHub](https://github.com/Happysingh1062003/Black-Battery)
+### Connect
 
-### Find me
-
-* [LinkedIn](https://linkedin.com/in/ssanyal-singh-57609220a)
-* [Twitter / X](https://twitter.com/Hxappyy)
-* [GitHub](https://github.com/Happysingh1062003)
-
-### Currently learning
-
-AI agents, machine learning, LLM applications, and building better software.
+[LinkedIn](https://linkedin.com/in/ssanyal-singh-57609220a) · [X](https://twitter.com/Hxappyy) · [GitHub](https://github.com/Happysingh1062003)
 
 > Build. Learn. Repeat.
