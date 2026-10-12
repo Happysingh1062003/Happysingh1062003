@@ -18,7 +18,7 @@ Python · TypeScript · JavaScript · Next.js · React · FastAPI · PostgreSQL 
 
 ### Project
 
-🔋 [Neural Network](https://github.com/Happysingh1062003/racing-neural-network)
+# [Neural Network](https://github.com/Happysingh1062003/racing-neural-network)
 
 ### Connect
 
