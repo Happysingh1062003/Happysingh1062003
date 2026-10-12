@@ -16,10 +16,6 @@ I like building things, learning about AI, and turning ideas into working projec
 
 Python · TypeScript · JavaScript · Next.js · React · FastAPI · PostgreSQL · MongoDB · Scikit-learn
 
-### Project
-
-# [Neural Network](https://github.com/Happysingh1062003/racing-neural-network)
-
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/ssanyal-singh-57609220a) · [X](https://twitter.com/Hxappyy) · [GitHub](https://github.com/Happysingh1062003)
