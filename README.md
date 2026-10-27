@@ -40,21 +40,13 @@ class Happy:
 <td width="50%" valign="top">
 
 #### ⚡ [Lextriq](https://lextriq.vercel.app)
-An AI-powered ad campaign platform that helps businesses create, launch and optimize **Google Ads** & **Meta Ads** campaigns, without needing a marketing team. Just describe what you want, and Lextriq handles the rest.
-
-`Next.js` `TypeScript` `Prisma` `Vercel`
-
-🔗 **[lextriq.vercel.app](https://lextriq.vercel.app)**
+AI-powered platform to create and optimize Google & Meta ad campaigns.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤝 [Alexander](ALEXANDER_REPO_LINK)
-Alexander is where ideas turn into code. A space for experimenting with AI, building fast, and shipping projects that solve real problems. Built in public, improved every day.
-
-`AI` `Startups` `Open Source`
-
-🔗 **[View on GitHub](ALEXANDER_REPO_LINK)**
+#### 🤝 [Alexander](https://github.com/Happysingh1062003/alexender)
+Where ideas turn into code: experimenting with AI and shipping fast.
 
 </td>
 </tr>
@@ -68,6 +60,10 @@ Alexander is where ideas turn into code. A space for experimenting with AI, buil
 
 **🤖 AI / ML**<br/>
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
+
+**✨ AI Tools**<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 **🌐 Web & Backend**<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,fastapi,nodejs" />
@@ -87,8 +83,6 @@ Alexander is where ideas turn into code. A space for experimenting with AI, buil
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happysingh1062003&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Happysingh1062003&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Happysingh1062003&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
