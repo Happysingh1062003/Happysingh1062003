@@ -39,18 +39,22 @@ class Happy:
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ Lextriq
-AI-powered ad campaign platform — create and optimize **Google Ads** & **Meta Ads** campaigns with AI.
+#### ⚡ [Lextriq](https://lextriq.vercel.app)
+An AI-powered ad campaign platform that helps businesses create, launch and optimize **Google Ads** & **Meta Ads** campaigns, without needing a marketing team. Just describe what you want, and Lextriq handles the rest.
 
 `Next.js` `TypeScript` `Prisma` `Vercel`
+
+🔗 **[lextriq.vercel.app](https://lextriq.vercel.app)**
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤝 Building with Alexander
-Teaming up with **[Alexander](https://github.com/ALEXANDER_USERNAME)** — <!-- one line about what you build together --> shipping ideas faster, together.
+#### 🤝 [Alexander](ALEXANDER_REPO_LINK)
+Alexander is where ideas turn into code. A space for experimenting with AI, building fast, and shipping projects that solve real problems. Built in public, improved every day.
 
-`AI` `Startups` `Collab`
+`AI` `Startups` `Open Source`
+
+🔗 **[View on GitHub](ALEXANDER_REPO_LINK)**
 
 </td>
 </tr>
@@ -99,4 +103,3 @@ Teaming up with **[Alexander](https://github.com/ALEXANDER_USERNAME)** — <!-- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-
