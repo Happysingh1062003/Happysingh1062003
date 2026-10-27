@@ -46,7 +46,7 @@ AI-powered platform to create and optimize Google & Meta ad campaigns.
 <td width="50%" valign="top">
 
 #### 🤝 [Alexander](https://github.com/Happysingh1062003/alexender)
-Where ideas turn into code: experimenting with AI and shipping fast.
+This is platform for where i manage my life. inspired by Jarvis but has Alexander The Great spirit.  
 
 </td>
 </tr>
