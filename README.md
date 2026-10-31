@@ -58,9 +58,9 @@ This is platform for where i manage my life. inspired by Jarvis but has Alexande
 
 ---
 
-### 🌌 Featured Project
+### 🌌 Artifacts
 
-**[Event Horizon](https://theeventhorizon.vercel.app/)**: a real-time ray-traced black hole in your browser, built with Three.js and GLSL shaders.
+** 🌀 [Event Horizon](https://theeventhorizon.vercel.app/)**: A simple black hole built with three.js
 
 [Live Preview](https://theeventhorizon.vercel.app/) · [GitHub](https://github.com/Happysingh1062003/Event_Horizon)
 
