@@ -54,6 +54,24 @@ This is platform for where i manage my life. inspired by Jarvis but has Alexande
 
 ---
 
+---
+
+### 🌌 Featured Project
+
+<div align="center">
+
+<a href="https://theeventhorizon.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a1005,100:000000&height=110&text=⚫%20EVENT%20HORIZON&fontSize=36&fontColor=ffcf96&fontAlignY=42&desc=A%20real-time%20ray-traced%20black%20hole%20in%20your%20browser&descSize=15&descAlignY=72" width="100%"/>
+</a>
+
+Every pixel is a light ray bent through curved spacetime: a lensed accretion disk, Doppler beaming,<br/>
+blackbody glow, and a spacecraft that slingshots past the horizon. Built with **Three.js + GLSL shaders**.
+
+<a href="https://theeventhorizon.vercel.app/"><img src="https://img.shields.io/badge/🛸_Live_Preview-ffcf96?style=for-the-badge&labelColor=000000"/></a>
+<a href="https://github.com/Happysingh1062003/Event_Horizon"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
 ### 🛠️ Tech Arsenal
 
 <div align="center">
