@@ -60,9 +60,9 @@ This is platform for where i manage my life. inspired by Jarvis but has Alexande
 
 ### 🌌 Artifacts
 
-** 🌀 [Event Horizon](https://theeventhorizon.vercel.app/)**: A simple black hole built with three.js
+🌀 [Event Horizon](https://theeventhorizon.vercel.app/): A simple black hole built with three.js
 
-[Live Preview](https://theeventhorizon.vercel.app/) · [GitHub](https://github.com/Happysingh1062003/Event_Horizon)
+[Live](https://theeventhorizon.vercel.app/) · [GitHub](https://github.com/Happysingh1062003/Event_Horizon)
 
 ### 🛠️ Tech Arsenal
 
